@@ -2,14 +2,7 @@ from tkinter import *
 from tkinter import Canvas
 import random
 
-GAME_wIDTH = 1500
-GAME_HEIGTH = 700
-SPEED = 100
-SPACE_SIZE = 50
-BODY_PART = 1000
-SNAKE_COLOR = "#00ff00"
-FOOD_COLOR = "#ff0000"
-BACKGROUND_COLOR = "#000000"
+
 
 class Snake:
     def __init__ (self):
