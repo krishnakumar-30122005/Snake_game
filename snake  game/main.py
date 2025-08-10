@@ -1,7 +1,3 @@
-from tkinter import *
-from tkinter import Canvas
-import random
-
 
 class Snake:
     def __init__ (self):
